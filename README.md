@@ -21,8 +21,10 @@
 
 <http://mirrors.segmentfault.com/adchs>
 
+<http://cnapks.com>
+
 ##致谢
-感谢 [topfun](http://www.topfun.us/) [lifanxi](http://www.freemindworld.com/) [安卓巴士](http://www.apkbus.com/) [SegmentFault](http://www.segmentfault.com) 提供镜像。
+感谢 [topfun](http://www.topfun.us/) [lifanxi](http://www.freemindworld.com/) [安卓巴士](http://www.apkbus.com/) [SegmentFault](http://www.segmentfault.com) [阿泉](http://aquan.me)提供镜像。
 
 ##历史版本
 [Android Design for Android 4.1](https://github.com/sunjw/adchs/releases/tag/4.1)
